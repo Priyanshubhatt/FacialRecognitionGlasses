@@ -1,3 +1,16 @@
+# Quick Description
+
+The computer matches a face with a set of photos uploaded from a web server. 
+If there is a match, it displays the name of the person matched. This pair of 
+facial recognition glasses function through a Raspberry Pi- a pocket-sized 
+computer connected to a small LCD replacing the glass. We used OpenCV for 
+image processing, video capture and video analysis which allowed us to 
+implement facial recognition- essentially the core of our project.
+Created a Python web server with use of Flask to allow users to upload a 
+photo and helped display website content by storing, processing and 
+delivering web pages to users. We also used Spotipy, this supports all 
+features of Spotify Web API so we could create user-based playlists.
+
 # SmartCCTV Camera - Build with a Raspberry Pi
 
 Build your own home Raspberry Pi powered surveillance iOT camera with Face recognition, access your live feed for any device. project by [SmartBuilds.io](http:smartbuilds.io)
